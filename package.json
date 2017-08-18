@@ -1,0 +1,26 @@
+{
+  "name": "object-pick",
+  "version": "1.0.0",
+  "description": "Returns a new object only containing the specified properties and renames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeatszhang/object-pick.git"
+  },
+  "keywords": [
+    "object",
+    "pick"
+  ],
+  "author": "yichi.coder@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeatszhang/object-pick/issues"
+  },
+  "homepage": "https://github.com/yeatszhang/object-pick#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
