@@ -1,5 +1,5 @@
 {
-  "name": "object-pick",
+  "name": "obj-pick",
   "version": "1.0.0",
   "description": "Returns a new object only containing the specified properties and renames",
   "main": "index.js",
